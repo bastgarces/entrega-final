@@ -1,0 +1,9 @@
+footer p.copyright /*pid de foto con el mail y el año */ {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+section p.reportaje /*párrafos del reportaje*/ {
+  font-family:"Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  text-align: left;
+}
